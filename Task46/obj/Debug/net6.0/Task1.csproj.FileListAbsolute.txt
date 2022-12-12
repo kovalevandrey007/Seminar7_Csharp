@@ -1,0 +1,15 @@
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.csproj.AssemblyReference.cache
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.AssemblyInfoInputs.cache
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.AssemblyInfo.cs
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.csproj.CoreCompileInputs.cache
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/bin/Debug/net6.0/Task1
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/bin/Debug/net6.0/Task1.deps.json
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/bin/Debug/net6.0/Task1.runtimeconfig.json
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/bin/Debug/net6.0/Task1.dll
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/bin/Debug/net6.0/Task1.pdb
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.dll
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/refint/Task1.dll
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.pdb
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/Task1.genruntimeconfig.cache
+/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task1/obj/Debug/net6.0/ref/Task1.dll
