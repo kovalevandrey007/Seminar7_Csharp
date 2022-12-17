@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task4/Task4.csproj",
+      "projectUniqueName": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task51/Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task4/Task4.csproj",
+      "projectPath": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task51/Task4.csproj",
       "packagesPath": "/home/Andy-PC/.nuget/packages/",
-      "outputPath": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task4/obj/",
+      "outputPath": "/home/Andy-PC/Рабочий стол/Seminar7_Csharp/Task51/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/Andy-PC/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -37,7 +37,7 @@ for (int i = 0; i < matrix.GetLength(0); i++)
 { 
 for (int j = 0; j < matrix.GetLength(1); j++) 
 { 
-matrix[i, j] = rnd.Next(0,3); 
+matrix[i, j] = rnd.Next(0,2); 
 } 
 } 
 return matrix; 
@@ -50,20 +50,25 @@ void PrintMatrix(int[,] matrix)
     { 
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-             Console.Write($"{matrix[i, j]} "); 
+            Console.Write($"{matrix[i, j]} "); 
         }
-              Console.WriteLine(); 
+        Console.WriteLine(); 
      } 
  } 
 //4.  функция ождения суммы элементов на главной диагонали
-int FindSum (int [,] matrix)
+int GetArithMean (int [,] matrix)
 {
-    int sum = 0;
-    for (int i = 0; i< matrix.GetLength(0); i++ )
+       for (int i = 0; i< matrix.GetLength(0); i++ )
     {
-        for (int j =0; j< matrix.GetLength(0); j++ )
+        sum[j] = 0;
+        count[i] = 0;
+        for (int j =0; j< matrix.GetLength(1); j++ )
+        if(j<i && j<matrix.GetLength(1) && count[i]< matrix.GetLength(0))
+{
+sum[j] += sum[j]
+}
         {
-        sum +=  matrix[i, j];   
+             sum +=  matrix[i, j];   
         }
     }
      return sum;
@@ -75,5 +80,5 @@ int nor =  GetNumber("введите количество столбцов: ");
 int [,] tort = GetMatrix(numer,  nor);
 PrintMatrix(tort);
 int popil = FindSum (tort);
-Console.WriteLine($"сумма ={popil}");
+Console.WriteLine($"Cумма элементов, находящихся на главной диагонали = {popil}");
  
